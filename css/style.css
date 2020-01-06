@@ -1,0 +1,137 @@
+
+
+
+body{
+
+font-family: 'Ibarra Real Nova', serif;
+
+}
+
+.banner-section{
+	background: url(../img/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+	height: 600px;
+	padding: 70px 0;
+	text-align: center;
+	    background-color: #343a40;
+    opacity: 0.8;
+}
+.banner-section h1{
+	margin-top: 150px;
+	color: #dfcfcf;
+
+}
+.banner-section p{
+	font-size: 30px;
+	color: #ffff;
+}
+.btn-custom{
+	    background: #99c50a;
+    padding: 19px 50px;
+    text-align: center;
+    border: 0;
+    border-radius: 12px;
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+}
+}
+.work-section{
+	padding: 70px 0;
+	text-align: center;
+}
+.work-section img{
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.work-section h2{
+	margin-top: 30px;
+	margin-bottom: 40px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.work-section p{
+	line-height: 30px;
+	margin-top: 30px;
+	text-align: center;
+}
+.project-section{
+	padding: 50px 0;
+	background: linear-gradient(to right, #e2f8ff 50%, #f5f9eb 50%)
+	
+}
+.project-section .one{
+	background:;
+	padding: 20px; 
+}
+.one img,.two img{
+	margin-left: 80px;
+	margin-top: 40px;
+
+}
+.project-section .two{
+	background: ;
+	padding: 20px;
+}
+.project-section .btn-cstm1{
+	background: #26a6d1;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	border:none;
+	border-radius: 6px;
+}
+.project-section .btn-cstm2{
+	background: #add136;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	border:none;
+	border-radius: 6px;
+}
+
+.blog-section{
+	padding: 70px 0;
+}
+.blog-section .land{
+	position: relative;
+}
+
+.blog-section .prop {
+	position: absolute;
+	top: 210px;
+	right: 14px;
+	color: #ffff;
+}
+.blog-section .land{
+	margin-top: 30px;
+	
+}
+
+.land p{
+	font-size: 20px;
+
+}
+.land i{
+
+}
+
+.fa.fa-caret-right{
+	color:#add136;
+font-size: 25px;
+}
+.social-section{
+	padding: 50px 0;
+}
+
+
+
+
+
+/*===============
+  RESPONSIVE-AREA
+=================*/
